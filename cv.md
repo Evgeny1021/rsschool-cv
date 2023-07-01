@@ -8,8 +8,7 @@
 </a>
 </p>
 <p> Discord:<a class="contact_link" href="https://discordapp.com/users/242690824352169984/">&nbsp; endurance_wow
-</p>
-</body>
+
 
 <h2>Goals and objectives:</h2> 
 <p>Пройти подготовительный курс JS/FE Pre-School 2023Q2 для дальнейшего освоения JS CSS HTML</p>
