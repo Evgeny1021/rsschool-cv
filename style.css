@@ -53,7 +53,7 @@ body {
     list-style: none;
     padding-left:30px;
     }
-.section-list::before {
+.section-title:before {
     display: block;
     width:auto;
     content: '';
@@ -123,3 +123,10 @@ html {
     height: 156px;
     padding-left:1500px;
   }
+.section-title {
+    font-family: 'NunitoSans', sans-serif;
+    font-weight: 600;
+    line-height: 1,5;
+    color: #09364b;
+    padding-left:30px;
+}
