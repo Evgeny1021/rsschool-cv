@@ -1,7 +1,3 @@
-@font-face {
-    font-family: 'NunitoSans';
-     src: url("./assets/fonts/NunitoSans-Italic-VariableFont_YTLC\,opsz\,wdth\,wght.ttf");
-   }
 html, body {
     display: flex;
     flex-direction: column;
